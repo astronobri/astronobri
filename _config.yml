@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: Dr. Brianna Mills
+title: Home
 
 # Your name to show in the footer
-author: Bri Mills
+author: Brianna Mills
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -138,11 +138,11 @@ page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#663399" #dark purple
-navbar-col: "#B289F3" #medium purple
+navbar-col: "#CEA3FF" #light purple
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-footer-col: "#966FD6" #darker than medium purple
-footer-text-col: "#777777"
+footer-col: "#B289F3" #medium purple
+footer-text-col: "#191970" #midnight blue
 footer-link-col: "#404040"
 footer-hover-col: "#550055" #Tyrian purple
 
