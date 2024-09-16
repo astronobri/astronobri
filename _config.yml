@@ -150,7 +150,7 @@ footer-hover-col: "#550055" #Tyrian purple
 # instead of colour
 
 #navbar-img: "/assets/img/bgimage.png"
-footer-img: "/assets/img/25th_orion.jpeg"
+#footer-img: "/assets/img/25th_orion.jpeg"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
