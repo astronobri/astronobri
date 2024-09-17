@@ -21,7 +21,7 @@ author: Brianna Mills
 
 navbar-links:
   About Me: "aboutme"
-  CV: "/online-cv/"
+  CV: "https://astronobri.github.io/online-cv/"
   Publications: "publications"
   
 
