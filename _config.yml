@@ -21,7 +21,7 @@ author: Brianna Mills
 
 navbar-links:
   About Me: "aboutme"
-  CV: "cv"
+  CV: "/online-cv/"
   Publications: "publications"
   
 
